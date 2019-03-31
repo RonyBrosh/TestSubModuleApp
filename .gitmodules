@@ -1,0 +1,3 @@
+[submodule "TestSubModuleApp/TestSubModuleLibrary"]
+	path = TestSubModuleApp/TestSubModuleLibrary
+	url = https://github.com/RonyBrosh/TestSubModuleLibrary.git
